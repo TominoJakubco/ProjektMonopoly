@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Chance.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Companies.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ComunnityChest.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="FreeParking.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="GoToJail.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PlayerInterface.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Railroads.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Spaces.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Start.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Street.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Taxes.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="VisitingJail.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Chance.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Companies.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ComunnityChest.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="FreeParking.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="GoToJail.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PlayerInterface.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Railroads.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Spaces.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Start.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Street.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Taxes.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="VisitingJail.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
